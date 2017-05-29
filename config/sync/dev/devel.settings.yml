@@ -1,0 +1,6 @@
+page_alter: true
+raw_names: true
+error_handlers:
+  - 0
+rebuild_theme: true
+devel_dumper: default
