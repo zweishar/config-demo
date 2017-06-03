@@ -11,8 +11,10 @@ is_admin: false
 permissions:
   - 'access comments'
   - 'access content'
+  - 'access environment indicator'
   - 'access shortcuts'
   - 'access site-wide contact form'
+  - 'administer environment indicator settings'
   - 'post comments'
   - 'search content'
   - 'skip comment approval'

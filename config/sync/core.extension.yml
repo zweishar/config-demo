@@ -8,9 +8,9 @@ module:
   comment: 0
   config: 0
   config_filter: 0
-  config_split: 0
   contact: 0
   contextual: 0
+  ctools: 0
   datetime: 0
   dblog: 0
   dynamic_page_cache: 0
@@ -23,6 +23,7 @@ module:
   help: 0
   history: 0
   image: 0
+  layout_discovery: 0
   link: 0
   menu_ui: 0
   node: 0

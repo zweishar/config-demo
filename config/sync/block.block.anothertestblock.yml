@@ -1,0 +1,25 @@
+uuid: aa622902-ed66-462e-82fd-7f46f42d33be
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:fb265379-1620-432d-b2c2-355a14e33c10'
+  module:
+    - block_content
+  theme:
+    - bartik
+id: anothertestblock
+theme: bartik
+region: header
+weight: 0
+provider: null
+plugin: 'block_content:fb265379-1620-432d-b2c2-355a14e33c10'
+settings:
+  id: 'block_content:fb265379-1620-432d-b2c2-355a14e33c10'
+  label: 'Another test block'
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }
