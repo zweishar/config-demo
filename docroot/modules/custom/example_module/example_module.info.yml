@@ -1,0 +1,6 @@
+name: Example Module
+type: module
+description: 'Demonstrates how to use default content'
+core: 8.x
+dependencies:
+  - default_content
