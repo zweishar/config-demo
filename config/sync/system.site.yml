@@ -1,6 +1,6 @@
-uuid: d509ae31-254d-47b6-af0d-1d841352a8ff
-name: Site-Install
-mail: admin@example.com
+uuid: 19f7525e-6621-400a-8d2f-0d9ad965eb51
+name: 'Dev Site'
+mail: test@test.com
 slogan: ''
 page:
   403: ''
