@@ -11,7 +11,7 @@ dependencies:
 id: examplesidebarblock
 theme: bartik
 region: sidebar_first
-weight: 0
+weight: -5
 provider: null
 plugin: 'block_content:b3ce5c5d-fe67-4d56-9c28-d2a8f2137d5e'
 settings:
