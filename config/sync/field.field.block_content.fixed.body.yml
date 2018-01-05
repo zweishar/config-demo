@@ -1,0 +1,26 @@
+uuid: 49acf51d-4568-4d50-aa15-b479cc99ed4b
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.fixed
+    - field.storage.block_content.body
+  module:
+    - text
+id: block_content.fixed.body
+field_name: body
+entity_type: block_content
+bundle: fixed
+label: Body
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    summary: ''
+    value: "<p>This is the default value dude</p>\r\n"
+    format: basic_html
+default_value_callback: ''
+settings:
+  display_summary: false
+field_type: text_with_summary

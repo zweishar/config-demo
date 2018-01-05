@@ -1,0 +1,10 @@
+uuid: 6c08dc86-723a-406f-a0af-74397995614b
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.fixed
+id: this_is_test
+title: 'This is test'
+block_content_bundle: fixed
+default_content: null

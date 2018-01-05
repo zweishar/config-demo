@@ -1,0 +1,23 @@
+uuid: 8d0c3526-8863-40ee-99fa-74cbfe42852e
+langcode: en
+status: true
+dependencies:
+  config:
+    - fixed_block_content.fixed_block_content.this_is_test
+  module:
+    - fixed_block_content
+  theme:
+    - bartik
+id: thisistest
+theme: bartik
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'fixed_block_content:this_is_test'
+settings:
+  id: 'fixed_block_content:this_is_test'
+  label: 'This is test'
+  provider: fixed_block_content
+  label_display: visible
+  view_mode: ''
+visibility: {  }
